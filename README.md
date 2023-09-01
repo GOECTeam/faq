@@ -10,7 +10,8 @@ Python:
 
 - [Learn Python 3 The Hard Way](https://learnpythonthehardway.org/python3/)
 - [Μαθήματα Python για αρχάριους](https://www.youtube.com/watch?v=fXAPSUtK43Q)
-
+- [Μαθαίνω Python & Tkinter – Κωνσταντίνος Παπαστεργίου](https://www.ebooks4greeks.gr/mathainw-python-tkinter)
+  
 HTML, CSS & JavaScript:
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
